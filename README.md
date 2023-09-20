@@ -1,1 +1,5 @@
-this is our first team projet at alx and my teamate massahgenesis
+## Printf project ##
+
+. Teamates : 
+TCHAGBONON William Oka
+N'DJAO Massah
