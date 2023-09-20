@@ -1,5 +1,5 @@
-## Printf project ##
+## PRINTF Project ##
 
 . Teamates : 
-TCHAGBONON William Oka
-N'DJAO Massah
+  -TCHAGBONON William Oka
+  -N'DJAO Massah
